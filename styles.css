@@ -23,13 +23,15 @@ code {
 }
 
 .app {
-  background: #209cee;
+  background-image: url(Monarch-Butterflies-And-Flowers-Blue-Butterflies-And-Flowers.jpg);
+  background-position: center;
+  background-size: cover;
   padding: 30px;
   height: 100vh;
 }
 
 .todo-list{
-  background: greenyellow;
+  background: black;
   border-radius: 4px;
   padding: 5px;
   max-width: 400px;
